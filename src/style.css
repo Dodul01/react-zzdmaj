@@ -23,3 +23,9 @@ nav ul li{
   list-style: none;
   padding: 5px;
 }
+.home-section{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 70vh;  
+}
